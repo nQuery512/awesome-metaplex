@@ -23,13 +23,15 @@ The candy machine is a Metaplex module (smartcontract) that allow people to do a
 
 ## How to do a Fair Launch using the candy machine ?
 
-
-
-
-
-## Burn 
-## 
+## Edit NFT Metadata
+Coming Soon
+## Burn multiple NFTs
+Coming SOon
 
 
 (Most link posted here are made by the Metaplex community)
 
+
+## Wallet explorer for NFTs
+ - https://www.nfteyez.global/
+ - https://step.finance/
