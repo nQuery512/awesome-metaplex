@@ -24,7 +24,9 @@ The candy machine is a Metaplex module (smartcontract) that allow people to do a
 ## How to do a Fair Launch using the candy machine ?
 There is multiple tutorial already available for this part:
 https://github.com/metaplex-foundation/metaplex/tree/master/js/packages/cli (official documentation)
+
 https://hackmd.io/@levicook/HJcDneEWF 
+
 https://dev.to/nicholasoxford/an-annotated-guide-to-the-metaplex-candy-machine-tutorial-2ihd
 
 
