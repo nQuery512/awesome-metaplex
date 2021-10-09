@@ -1,6 +1,8 @@
 # Awesome Metaplex
 
 This page aim to regroup ressources to help artists and developers on their NFTs journey on Solana using Metaplex and the Candy machine
+Most link posted here are made by other people from the Metaplex community 💚
+
 
 ## What is Metaplex ?
 
@@ -42,7 +44,6 @@ Coming Soon
 ## Burn multiple NFTs
 Coming Soon
 
-(Most link posted here are made by the Metaplex community)
 ## Wallet explorer for NFTs
  - https://www.nfteyez.global/
  - https://step.finance/
